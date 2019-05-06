@@ -54,6 +54,7 @@ In these scatter plots, we can see that coal, oil and hydropower are negatively 
 
 
 ## Reference
+```
 The World Bank Group (2019). Access to electricity (% of population), from 
     https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
 The World Bank Group (2019). Electricity production from nuclear sources (% of total), from 
@@ -66,5 +67,7 @@ The World Bank Group (2019). Electricity production from hydroelectric sources (
     https://data.worldbank.org/indicator/EG.ELC.HYRO.ZS
 The World Bank Group (2019). Electricity production from oil, gas and coal sources (% of total), from 
     https://data.worldbank.org/indicator/EG.ELC.FOSL.ZS
+```
+
 
 
