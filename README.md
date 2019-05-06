@@ -1,4 +1,4 @@
-# DATS 6103 – Individual Project 3 – Xi Zhang
+# DATS 6103-Individual Project 3-Xi Zhang
 ## Overview of Access of Electricity to the World
 Overview of global electricity access from 2000 to 2015.
 ![](img/Overview.png)
@@ -52,12 +52,19 @@ But with the development of time, what does the development of nuclear energy br
 In these scatter plots, we can see that coal, oil and hydropower are negatively correlated with nuclear power, among which nuclear power has the greatest impact on coal and the least impact on hydropower. But we can expect coal and fuel to be replaced as nuclear power becomes more widely used. As a result, less and less waste gas will be released into the atmosphere, and our environment will eventually be improved.
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## Reference
+The World Bank Group (2019). Access to electricity (% of population), from 
+    https://data.worldbank.org/indicator/EG.ELC.ACCS.ZS
+The World Bank Group (2019). Electricity production from nuclear sources (% of total), from 
+    https://data.worldbank.org/indicator/EG.ELC.NUCL.ZS
+The World Bank Group (2019). Electricity production from coal sources (% of total), from 
+    https://data.worldbank.org/indicator/EG.ELC.COAL.ZS
+The World Bank Group (2019). Electricity production from coal sources (% of total), from 
+    https://data.worldbank.org/indicator/EG.ELC.PETR.ZS
+The World Bank Group (2019). Electricity production from hydroelectric sources (% of total), from 
+    https://data.worldbank.org/indicator/EG.ELC.HYRO.ZS
+The World Bank Group (2019). Electricity production from oil, gas and coal sources (% of total), from 
+    https://data.worldbank.org/indicator/EG.ELC.FOSL.ZS
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/f0000000x/f000000x.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
