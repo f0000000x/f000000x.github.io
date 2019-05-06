@@ -1,21 +1,8 @@
-# DATS 6103-Individual Project 3-Xi Zhang
+# DATS 6103  -  Individual Project 3  -  Xi Zhang
 ## Overview of Access of Electricity to the World
 Overview of global electricity access from 2000 to 2015.
 ![](img/Overview.png)
-```
-#Read raw data,reset the index
-dd = pd.read_excel("Data/Total.xls", header=3)
-#select the data from 2000 to 2015
-df = dd.iloc[:,-21:-3]
-#Append country code and country name to dataframe
-df['1998'] = dd['Country Code']
-df['1999'] = dd['Country Name']
-df.rename(columns={df.columns[0]: "Country Code" }, inplace=True)
-df.rename(columns={df.columns[1]: "Country Name" }, inplace=True)
-#Fill missing data to 0
-df = df.fillna(0)
-df.head(10)
-```
+![](img/codes/Overview.png)
 
 ![](img/Map-Access2000.png)
 ![](img/Map-Access2015.png)
