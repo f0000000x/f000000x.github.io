@@ -8,9 +8,12 @@ Overview of global electricity access from 2000 to 2015.
 ![](img/Map-Access2015.png)
 ![](img/codes/map.png)
 
+Electricity Access rates have changed in different countries over the past 15 years.
+
 ![](img/TotalElectricityAccess.png)
 ![](img/codes/TotalElectricityAccess.png)
-The world map gives a very visual view of how electricity rates have changed in different countries over the past decade.The bar chart illustrates that the global electricity supply rate has been rising steadily since 2000.
+
+The global electricity supply rate has been rising steadily since 2000.
 
 ## The State of Nuclear Power in Electricity
 Due to the economic advantages and environmental considerations, nuclear power has become the most potential and most likely to gradually replace the traditional energy generation mode in recent years. But because of upfront costs and international regulations, not every country can afford nuclear power. So this time I will study ten countries with nuclear power plants and further illustrate he state of nuclear power in electricity.
